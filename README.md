@@ -1,2 +1,2 @@
 # hello-world
-test 001
+trying to learn coding, but this is pretty hard =C
